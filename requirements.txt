@@ -1,0 +1,6 @@
+pdfplumber
+paddlepaddle
+paddleocr
+openpyxl
+pandas
+Pillow
