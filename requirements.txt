@@ -4,4 +4,3 @@ paddleocr
 openpyxl
 pandas
 Pillow
-pdfplumber
