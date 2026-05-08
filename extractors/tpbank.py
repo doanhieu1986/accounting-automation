@@ -25,6 +25,7 @@ class TPBankExtractor(BaseExtractor):
             "Tên tài khoản": "",
             "Số tài khoản": "",
             "Nội dung thanh toán": "",
+            "Source": "TPBank",
         }
 
         # Số giao dịch
